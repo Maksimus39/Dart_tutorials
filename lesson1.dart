@@ -1,6 +1,4 @@
 void main() {
-  print("Hello, Dart!");
-
-  var a = "sdf";
-  print(a);
+ var title = "Курс Dart видео_2";
+ print(title);
 }
